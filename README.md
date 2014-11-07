@@ -1,7 +1,7 @@
 controlify
 ==========
 
-Simple scripts to control Spotify linux app playback
+Simple scripts to control linux media playback
 
 @todo
 - Make it simpler
